@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ServiceCar_react/static/css/main.eb3e192c.css",
+    "main.js": "/ServiceCar_react/static/js/main.10d32afc.js",
+    "static/media/card.png": "/ServiceCar_react/static/media/card.bf720eb6bc8559e58ed4.png",
+    "static/media/about_logo.svg": "/ServiceCar_react/static/media/about_logo.dba532a0b165b39ce867.svg",
+    "static/media/logo.svg": "/ServiceCar_react/static/media/logo.e0a26b2cc6d2da9c6436.svg",
+    "static/media/bg.svg": "/ServiceCar_react/static/media/bg.582dbac917ddf11b1f49.svg",
+    "static/media/search2.svg": "/ServiceCar_react/static/media/search2.ed1a61801585197cbee7.svg",
+    "static/media/bg1.svg": "/ServiceCar_react/static/media/bg1.fb601f1bec3e0729e5ed.svg",
+    "index.html": "/ServiceCar_react/index.html",
+    "static/media/arrow.svg": "/ServiceCar_react/static/media/arrow.c7efb95a7925c007c069.svg",
+    "main.eb3e192c.css.map": "/ServiceCar_react/static/css/main.eb3e192c.css.map",
+    "main.10d32afc.js.map": "/ServiceCar_react/static/js/main.10d32afc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb3e192c.css",
+    "static/js/main.10d32afc.js"
+  ]
+}
