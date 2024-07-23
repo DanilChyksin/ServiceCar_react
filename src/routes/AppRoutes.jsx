@@ -1,17 +1,17 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
-import Home from "../components/Home";
+import Home from "../pages/Home";
 import { ROUTES } from "./routes";
-import Register from "../components/Register";
-import RegisterCity from "../components/RegisterСity";
-import RegisterForm from "../components/RegisterForm";
-import Thanks from "../components/Thanks";
-import Donat from "../components/Donat";
-import About from "../components/About";
-import Faq from "../components/Faq";
-import InfoCar from "../components/FAQservice";
-import Faqpo from "../components/FAQPOservice";
-import Faqwa from "../components/FAQWAservice";
+import Register from "../pages/Register";
+import RegisterCity from "../pages/RegisterСity";
+import RegisterForm from "../pages/RegisterForm";
+import Thanks from "../pages/Thanks";
+import Donat from "../pages/Donat";
+import About from "../pages/About";
+import Faq from "../pages/Faq";
+import InfoCar from "../pages/FAQservice";
+import Faqpo from "../pages/FAQPOservice";
+import Faqwa from "../pages/FAQWAservice";
 
 const AppRoutes = () => {
   return (

@@ -1,6 +1,6 @@
 import { useDispatch } from "react-redux";
 import AppRoutes from "./routes/AppRoutes";
-import { getFAQService } from "./salonSlice";
+import { getFAQService } from "./assets/salonSlice";
 import { useEffect } from "react";
 
 function App() {
